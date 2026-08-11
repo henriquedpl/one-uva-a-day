@@ -8,7 +8,7 @@
 */
 
 
-int main(int argc, char *argv){
+int main(int argc, char *argv[]){
   int n, i, casen;
   int x;
   int result;

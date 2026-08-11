@@ -5,7 +5,7 @@
   Runtime: 0.000s
 */
 
-int main(int argc, char *argv){
+int main(int argc, char *argv[]){
   int cases, a, b, i;
   scanf("%d", &cases);
   for(i = 0; i < cases; i++){

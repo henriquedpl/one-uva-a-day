@@ -19,7 +19,7 @@ int get_chain_length(int a){
   return result;
 }
 
-int main(int argc, char *argv){
+int main(int argc, char *argv[]){
   int i, j, _i, _j, current;
   int max_chain_size = 0;
   int chain_length;

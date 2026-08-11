@@ -6,7 +6,7 @@
 */
 
 
-int main(int argc, char *argv){
+int main(int argc, char *argv[]){
   int t, n;
   int a, b, c;
   int diff = 0;

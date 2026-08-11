@@ -10,7 +10,7 @@
 #define MARKS_TO_DEG 9
 #define FULL_TURN 360
 
-int main(int argc, char *argv){
+int main(int argc, char *argv[]){
   int a, b, c, d;
   int ans;
   scanf("%d %d %d %d", &a, &b, &c, &d);

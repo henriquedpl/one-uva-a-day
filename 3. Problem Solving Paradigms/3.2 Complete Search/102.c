@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(int argc, char *argv){
+int main(int argc, char *argv[]){
   int b1, g1, c1, b2, g2, c2, b3, g3, c3;
   int to_move = 0, total = 0;
   int to_move_idx = 0;

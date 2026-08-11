@@ -8,7 +8,7 @@
 
 
 
-int main(int argc, char *argv) {
+int main(int argc, char *argv[]) {
   int n;
   int a, b, aux;
   scanf("%d %d", &a, &b);

@@ -8,7 +8,7 @@
 */
 
 
-int main(int argc, char *argv){
+int main(int argc, char *argv[]){
   int i, w, h, l;
   int c = 0;
   scanf("%d", &i);

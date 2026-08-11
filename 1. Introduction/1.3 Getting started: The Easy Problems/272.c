@@ -10,7 +10,7 @@
 */
 
 
-int main(int argc, char *argv){
+int main(int argc, char *argv[]){
   char *line = malloc(MAX_LINE_SIZE * sizeof(char));
   int i, open;
   open = 0;

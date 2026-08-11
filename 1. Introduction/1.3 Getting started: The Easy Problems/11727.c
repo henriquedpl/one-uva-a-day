@@ -7,7 +7,7 @@
   Runtime: 0.000s
 */
 
-int main(int argc, char *argv){
+int main(int argc, char *argv[]){
   int k, i;
   int s1, s2, s3;
   int aux;

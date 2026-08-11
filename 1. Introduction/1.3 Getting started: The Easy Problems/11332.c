@@ -19,7 +19,7 @@ int g(int x){
 
 }
 
-int main(int argc, char *argv){
+int main(int argc, char *argv[]){
   int n = 1;
   int f;
   scanf("%d", &n);

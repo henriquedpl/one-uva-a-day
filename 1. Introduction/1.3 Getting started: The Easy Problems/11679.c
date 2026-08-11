@@ -8,7 +8,7 @@
 */
 
 
-int main(int argc, char *argv){
+int main(int argc, char *argv[]){
   int banks, debentures;
   int from, to, value;
   int reserves[20], pay[20], receive[20];

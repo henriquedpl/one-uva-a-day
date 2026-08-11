@@ -18,7 +18,7 @@ int comp(char *a, char *b){
   return result;
 }
 
-int main(int argc, char *argv){
+int main(int argc, char *argv[]){
   char line[16];
   int i;
   scanf("%d", &i);

@@ -6,7 +6,7 @@
   Runtime: 0.000s
 */
 
-int main(int argc, char *argv){
+int main(int argc, char *argv[]){
   int cases, n;
   scanf("%d", &cases);
   while(cases-- > 0){

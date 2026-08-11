@@ -6,7 +6,7 @@
   Runtime: 0.000s
 */
 
-int main(int argc, char *argv){
+int main(int argc, char *argv[]){
   char word[16];
   int i  = 0;
   word[0] = 'x';

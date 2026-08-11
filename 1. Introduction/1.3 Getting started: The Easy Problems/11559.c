@@ -7,7 +7,7 @@
 */
 
 
-int main(int argc, char *argv){
+int main(int argc, char *argv[]){
   int n, b, h, w;
   int i, j;
   int _w;

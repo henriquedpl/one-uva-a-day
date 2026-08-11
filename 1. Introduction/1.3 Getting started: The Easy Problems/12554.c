@@ -20,7 +20,7 @@ char **read_strings(int n, int maxsize){
   return strings;
 }
 
-int main(int argc, char *argv){
+int main(int argc, char *argv[]){
   char **names;
   int people;
   int i = 0;

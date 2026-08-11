@@ -8,7 +8,7 @@
 */
 
 
-int main(int argc, char *argv){
+int main(int argc, char *argv[]){
   int n, m, i, p, same;
   char c;
   int instructions[101];
