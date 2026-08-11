@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/*
+  Problem 100 The 3n+1 problem
+  Runtime: 0.000s
+*/
+
 int get_chain_length(int a){
   int result = 1;
   while(a > 1){
