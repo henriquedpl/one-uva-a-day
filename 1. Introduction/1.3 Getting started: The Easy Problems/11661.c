@@ -1,6 +1,11 @@
 #include <stdio.h>
 
 
+/*
+  Problem 11661 Burger Time?
+  Runtime: 0.010s
+*/
+
 int main(int argc, char *argv[]){
   int size, minsize, zfound;
   char path[2000001], current;
