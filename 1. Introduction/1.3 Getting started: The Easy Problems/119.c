@@ -2,6 +2,12 @@
 #include <string.h>
 #include <stdlib.h>
 
+
+/*
+  Problem 10424 Greedy Gift Givers
+  Runtime: 0.000s
+*/
+
 int find_index(char **names, char *name){
   int i;
   for(i=0; i < 10; i++){

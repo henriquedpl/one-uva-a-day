@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+
+/*
+  Problem 10424 Love Calculator
+  Runtime: 0.000s
+*/
+
 int reduce(int n){
   if(n < 10) return n;
   int total = 0;
