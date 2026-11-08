@@ -6,7 +6,7 @@
   Runtime: 0.000s
 */
 
-int main(int argc, char *argv[]){
+int main(){
   int piles;
   int total_bricks;
   int to_move;
